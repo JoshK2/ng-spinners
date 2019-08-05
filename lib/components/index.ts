@@ -1,0 +1,12 @@
+export { CircleLoaderModule } from './circle-loader';
+export { FacebookLoaderModule } from './facebook-loader';
+export { HourglassLoaderModule } from './hourglass-loader';
+export { RippleLoaderModule } from './ripple-loader';
+export { SpinnerLoaderModule } from './spinner-loader';
+export { DefaultLoaderModule } from './default-loader';
+export { GridLoaderModule } from './grid-loader';
+export { RingLoaderModule } from './ring-loader';
+export { DualRingLoaderModule } from './dualring-loader';
+export { HeartLoaderModule } from './heart-loader';
+export { RollerLoaderModule } from './roller-loader';
+export { EllipsisLoaderModule } from './ellipsis-loader';

@@ -1,0 +1,22 @@
+{
+  "name": "ng-angular-spinners",
+  "version": "0.0.1",
+  "author": "Josh Kuttler <yoshuakuttler@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": ">=5.0.0",
+    "@angular/common": ">=5.0.0"
+  },
+  "ngPackage": {
+    "$schema": "../node_modules/ng-packagr/ng-package.schema.json",
+    "lib": {
+      "entryFile": "components/index.ts"
+    },
+    "dest": "dist"
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+  }
+}
