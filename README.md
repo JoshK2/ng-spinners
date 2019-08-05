@@ -1,4 +1,4 @@
-# ng-angular-spinners [![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fng-angular-spinners)](https://bit.dev/joshk/ng-spinners)
+# ng-angular-spinners [![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fng-spinners)](https://bit.dev/joshk/ng-spinners)
 
 Angular CSS spinners for ajax or loading animation based on loadingio.  
 <p align="center">
