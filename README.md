@@ -1,6 +1,7 @@
 # ng-spinners [![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fng-spinners)](https://bit.dev/joshk/ng-spinners)
 
-Angular CSS spinners for ajax or loading animation based on loadingio.  
+Angular CSS spinners/loaders for ajax or loading animation based on loadingio.  
+[Install components and live demo](https://bit.dev/joshk/ng-spinners)
 <p align="center">
   <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/7ec8f6aa235b4da4e57602c238b996fafbd7727b.gif"></a>
 </p>

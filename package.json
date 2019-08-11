@@ -22,7 +22,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:lib": "cp README.md lib/ && ng-packagr -p lib/package.json"
+    "build:lib": "cp README.md lib/ && ng-packagr -p lib/package.json",
+    "deploy": "npm publish lib/dist"
   },
   "dependencies": {
     "@angular/common": "~8.1.2",
