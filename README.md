@@ -11,9 +11,8 @@ Angular CSS spinners/loaders for ajax or loading animation based on loadingio.
   <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/7ec8f6aa235b4da4e57602c238b996fafbd7727b.gif"></a>
 </p>
 
-## Play and install spinners for Angular with Bit
+## 🚀 Play and install spinners for Angular with Bit
 Using [bit](https://bit.dev/joshk/ng-spinners) to play with live demo, and try the spinners before install.
-
 
 ### Install specific Angular spinner component/module with bit, npm or yarn without having to install the whole project
 
@@ -51,7 +50,7 @@ bit import joshk.ng-spinners/facebook-loader
 | ------- | -------- | ------- |
 | `color` | `string` | `#7f58af`  |
 
-## Usage Examples
+## 💻 Usage Examples
 
 module file example:
 ```javascript
@@ -80,8 +79,21 @@ component html file example:
 <facebook-loader color="#de3541"></facebook-loader>
 <facebook-loader></facebook-loader>
 ```
-Complete example of this component can be found [here](https://bit.dev/joshk/ng-spinners/facebook-loader).  
+Complete example of this component can be found [here](https://bit.dev/joshk/ng-spinners/facebook-loader).   
 
-## License
+## 👾 Development
+
+You can see the components locally by cloning this repo and doing the following steps:
+
+Install dependencies from `package.json`, run: `npm install`
+
+Run the app in the development mode, run: `npm run start`.  
+
+## ⌨️ Contributing
+
+- Pull requests and ⭐ stars are always welcome
+- For bugs and feature requests, please create an issue
+
+## 📄 License
 [MIT](https://choosealicense.com/licenses/mit/)
 
