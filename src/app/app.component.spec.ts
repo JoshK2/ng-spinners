@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'ng-angular-spinners'`, () => {
+  it(`should have as title 'ng-spinners'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('ng-angular-spinners');
+    expect(app.title).toEqual('ng-spinners');
   });
 
   it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to ng-angular-spinners!');
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to ng-spinners!');
   });
 });

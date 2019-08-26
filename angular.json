@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ng-angular-spinners": {
+    "ng-spinners": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ng-angular-spinners",
+            "outputPath": "dist/ng-spinners",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -58,18 +58,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "ng-angular-spinners:build"
+            "browserTarget": "ng-spinners:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "ng-angular-spinners:build:production"
+              "browserTarget": "ng-spinners:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ng-angular-spinners:build"
+            "browserTarget": "ng-spinners:build"
           }
         },
         "test": {
@@ -106,15 +106,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "ng-angular-spinners:serve"
+            "devServerTarget": "ng-spinners:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "ng-angular-spinners:serve:production"
+              "devServerTarget": "ng-spinners:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "ng-angular-spinners"
+  "defaultProject": "ng-spinners"
 }
