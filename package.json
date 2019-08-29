@@ -7,12 +7,15 @@
     "type": "git",
     "url": "https://github.com/JoshK2/ng-spinners"
   },
+  "homepage": "https://bit.dev/joshk/ng-spinners",
   "keywords": [
     "angular",
     "modules",
     "loaders",
     "css-animations",
-    "spinners"
+    "spinners",
+    "angular-component",
+    "angular-spinners"
   ],
   "private": false,
   "scripts": {
@@ -43,7 +46,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.801.2",
-    "@angular/cli": "~8.1.2",
+    "@angular/cli": "^8.3.1",
     "@angular/compiler-cli": "~8.1.2",
     "@angular/language-service": "~8.1.2",
     "@types/jasmine": "~3.3.8",

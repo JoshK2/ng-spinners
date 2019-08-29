@@ -1,18 +1,21 @@
 {
   "name": "ng-spinners",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "author": "Josh Kuttler <yoshuakuttler@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/JoshK2/ng-spinners"
   },
+  "homepage": "https://bit.dev/joshk/ng-spinners",
   "keywords": [
     "angular",
     "modules",
     "loaders",
     "css-animations",
-    "spinners"
+    "spinners",
+    "angular-component",
+    "angular-spinners"
   ],
   "private": false,
   "peerDependencies": {
