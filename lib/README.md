@@ -32,7 +32,7 @@ Amazing collection of pure CSS angular spinners components of css spinners for a
 | ------- | -------- | ------- |
 | `color` | `string` | `#7f58af`  |
 
-## 🚀 Installation
+## 📦 Installation
 ### Using [npm](https://www.npmjs.com/package/ng-spinners) to install ng-spinners
 ```
 npm i --save ng-spinners
@@ -90,13 +90,13 @@ Complete example of this component can be found [here](https://bit.dev/joshk/ng-
 ## 👾 Development
 
 You can see the components locally by cloning this repo and doing the following steps:
-- Install dependencies from `package.json`, run: `npm install`
+- Install dependencies from `package.json`, run: `npm install`.
 - Run the app in the development mode, run: `npm run start`.  
 
 ## ⌨️ Contributing
 
-- Pull requests and ⭐ stars are always welcome
-- For bugs and feature requests, please create an issue
+- Pull requests and ⭐ stars are always welcome.
+- For bugs and feature requests, please create an issue.
 
 ## 📄 License
 [MIT](https://github.com/JoshK2/ng-spinners/blob/master/LICENSE)

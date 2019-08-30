@@ -32,7 +32,7 @@ Amazing collection of pure CSS angular spinners components of css spinners for a
 | ------- | -------- | ------- |
 | `color` | `string` | `#7f58af`  |
 
-## 🚀 Installation
+## 📦 Installation
 ### Using [npm](https://www.npmjs.com/package/ng-spinners) to install ng-spinners
 ```
 npm i --save ng-spinners
