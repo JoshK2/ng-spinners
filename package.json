@@ -1,6 +1,6 @@
 {
   "name": "ng-spinners-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Josh Kuttler <yoshuakuttler@gmail.com>",
   "license": "MIT",
   "repository": {
@@ -15,7 +15,14 @@
     "css-animations",
     "spinners",
     "angular-component",
-    "angular-spinners"
+    "angular-spinners",
+    "angular-spinner",
+    "loadingio",
+    "loading-animations",
+    "loading",
+    "loader",
+    "progress",
+    "activity"
   ],
   "private": false,
   "scripts": {
