@@ -1,4 +1,4 @@
-# Angular Spinners CSS Loaders ([React](https://github.com/JoshK2/react-spinners-css))
+# Angular Spinners CSS Loaders ([Vue](https://github.com/JoshK2/vue-spinners-css), [React](https://github.com/JoshK2/react-spinners-css))
 [![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fng-spinners)](https://bit.dev/joshk/ng-spinners)
 [![npm version](https://badge.fury.io/js/ng-spinners.svg)](http://badge.fury.io/js/ng-spinners)
 [![GitHub stars](https://img.shields.io/github/stars/joshk2/ng-spinners)](https://github.com/JoshK2/ng-spinners/stargazers)
