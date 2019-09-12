@@ -9,6 +9,9 @@
   <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/e5832341d5d3e440221cf80650042792a99e39f7.gif"></a>
 </p>
 Amazing collection of pure CSS angular spinners components of css spinners for ajax or loading animation based on loading.io.  
+- 💅No extra CSS imports
+- ✂️Zero dependencies  
+- 📦Spinners can be installing separately
 
 ## [Live Demo](https://bit.dev/joshk/ng-spinners)
 
