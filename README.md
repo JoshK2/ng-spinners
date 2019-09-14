@@ -17,42 +17,41 @@ The Angular spinners are based on loading.io and from all over the web.
 - 📦Spinners can be installing separately
 
 ## [Live Demo](https://bit.dev/joshk/ng-spinners)
-
 Browse components and explore their props with [Bit](https://bit.dev/joshk/ng-spinners).  
 Install specific angular spinner component with npm, yarn or bit without having to install the whole project.  
 [Install components and live demo](https://bit.dev/joshk/ng-spinners)
 
 
-## 🚀 List of components
+## 🚀 List of Spinners - Input and Default Property
+Each component accepts a `color` prop, and few accepts also `size` prop.  
+The default `color` prop is `#7f58af`.  
+Component that accepts `size` prop have a default size in pixel.
 
-- `<circle-loader></circle-loader>`
-- `<facebook-loader></facebook-loader>`
-- `<hourglass-loader></hourglass-loader>`
-- `<ripple-loader></ripple-loader>`
-- `<spinner-loader></spinner-loader>`
-- `<default-loader></default-loader>`
-- `<grid-loader></grid-loader>`
-- `<ring-loader></ring-loader>`
-- `<dualring-loader></dualring-loader>`
-- `<heart-loader></heart-loader>`
-- `<roller-loader></roller-loader>`  
-- `<ellipsis-loader></ellipsis-loader>`
+| Spinner                                | color: string | size: string  |
+| -------------------------------------- | ------------  | ------------- |
+| `<circle-loader></circle-loader>`      | `#7f58af`     | `64px`        |
+| `<default-loader></default-loader>`    | `#7f58af`     | -             |
+| `<dualring-loader></dualring-loader>`  | `#7f58af`     | -             |
+| `<ellipsis-loader></ellipsis-loader>`  | `#7f58af`     | -             |
+| `<facebook-loader></facebook-loader>`  | `#7f58af`     | -             |
+| `<grid-loader></grid-loader>`          | `#7f58af`     | -             |
+| `<heart-loader></heart-loader>`        | `#7f58af`     | -             |
+| `<hourglass-loader></hourglass-loader>`| `#7f58af`     | -             |
+| `<ring-loader></ring-loader>`          | `#7f58af`     | -             |
+| `<ripple-loader></ripple-loader>`      | `#7f58af`     | -             |
+| `<roller-loader></roller-loader>`      | `#7f58af`     | -             |
+| `<spinner-loader></spinner-loader>`    | `#7f58af`     | -             |
+| `<orbitals-loader></orbitals-loader>`  | `#7f58af`     | -             |
 
-#### Input Property
-
-| Prop    | Type     | Default |
-| ------- | -------- | ------- |
-| `color` | `string` | `#7f58af`  |
 
 ## 📦 Installation
 ### Using [npm](https://www.npmjs.com/package/ng-spinners) to install ng-spinners
 ```
 npm i --save ng-spinners
 ```
-### Play and install spinners for Angular with Bit
+### Play and install spinners for Angular with [Bit](https://bit.dev/joshk/ng-spinners)
 Install specific Angular spinner component/module with bit, npm or yarn without having to install the whole project
 Using [bit](https://bit.dev/joshk/ng-spinners) to play with live demo, and try the spinners before install.
-
 
 set npm regisetry config(one time action):
 ```bash
@@ -66,7 +65,6 @@ bit import joshk.ng-spinners/facebook-loader
 ```  
 
 ## 💻 Usage Examples
-
 module file example:
 ```javascript
 import { BrowserModule } from '@angular/platform-browser';
@@ -100,12 +98,11 @@ component html file example:
 Complete example of this component can be found [here](https://bit.dev/joshk/ng-spinners/facebook-loader).   
 
 ## 👾 Development
-
 You can see the components locally by cloning this repo and doing the following steps:
 - Install dependencies from `package.json`, run: `npm install`.
 - Run the app in the development mode, run: `npm run start`.  
 
-## ⌨️ Contributing
+## 🙌 Contributing
 
 - Pull requests and ⭐ stars are always welcome.
 - For bugs and feature requests, please create an issue.
