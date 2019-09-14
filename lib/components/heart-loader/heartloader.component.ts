@@ -1,10 +1,10 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input } from '@angular/core'
 
 @Component({
-  selector: 'heart-loader',
-  templateUrl: './heartloader.component.html',
-  styleUrls: ['./heartloader.component.css']
+    selector: 'heart-loader',
+    templateUrl: './heartloader.component.html',
+    styleUrls: ['./heartloader.component.css'],
 })
 export class HeartLoaderComponent {
-  @Input() color: string = '#7f58af';
+    @Input() color: string = '#7f58af'
 }

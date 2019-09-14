@@ -1,10 +1,10 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { OrbitalsLoaderComponent } from './orbitalsloader.component';
+import { NgModule } from '@angular/core'
+import { CommonModule } from '@angular/common'
+import { OrbitalsLoaderComponent } from './orbitalsloader.component'
 
 @NgModule({
-  imports: [CommonModule],
-  declarations: [OrbitalsLoaderComponent],
-  exports: [OrbitalsLoaderComponent]
+    imports: [CommonModule],
+    declarations: [OrbitalsLoaderComponent],
+    exports: [OrbitalsLoaderComponent],
 })
-export class OrbitalsLoaderModule { }
+export class OrbitalsLoaderModule {}

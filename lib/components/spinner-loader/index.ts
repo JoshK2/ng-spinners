@@ -1,1 +1,1 @@
-export { SpinnerLoaderModule } from './spinnerloader.module';
+export { SpinnerLoaderModule } from './spinnerloader.module'

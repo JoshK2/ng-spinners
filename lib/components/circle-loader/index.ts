@@ -1,1 +1,1 @@
-export { CircleLoaderModule } from './circleloader.module';
+export { CircleLoaderModule } from './circleloader.module'

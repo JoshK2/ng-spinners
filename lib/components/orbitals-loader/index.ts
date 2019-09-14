@@ -1,1 +1,1 @@
-export { OrbitalsLoaderModule } from './orbitalsloader.module';
+export { OrbitalsLoaderModule } from './orbitalsloader.module'

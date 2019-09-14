@@ -1,1 +1,1 @@
-export { GridLoaderModule } from './gridloader.module';
+export { GridLoaderModule } from './gridloader.module'

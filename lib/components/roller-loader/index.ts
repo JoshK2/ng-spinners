@@ -1,1 +1,1 @@
-export { RollerLoaderModule } from './rollerloader.module';
+export { RollerLoaderModule } from './rollerloader.module'

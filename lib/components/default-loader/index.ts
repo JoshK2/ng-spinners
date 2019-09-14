@@ -1,1 +1,1 @@
-export { DefaultLoaderModule } from './defaultloader.module';
+export { DefaultLoaderModule } from './defaultloader.module'

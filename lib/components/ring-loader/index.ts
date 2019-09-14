@@ -1,1 +1,1 @@
-export { RingLoaderModule } from './ringloader.module';
+export { RingLoaderModule } from './ringloader.module'

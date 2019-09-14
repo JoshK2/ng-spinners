@@ -1,1 +1,1 @@
-export { FacebookLoaderModule } from './facebookloader.module';
+export { FacebookLoaderModule } from './facebookloader.module'

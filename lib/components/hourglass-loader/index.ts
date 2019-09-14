@@ -1,1 +1,1 @@
-export { HourglassLoaderModule } from './hourglassloader.module';
+export { HourglassLoaderModule } from './hourglassloader.module'

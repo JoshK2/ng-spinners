@@ -1,1 +1,1 @@
-export { RippleLoaderModule } from './rippleloader.module';
+export { RippleLoaderModule } from './rippleloader.module'

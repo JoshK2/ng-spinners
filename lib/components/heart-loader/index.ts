@@ -1,1 +1,1 @@
-export { HeartLoaderModule } from './heartloader.module';
+export { HeartLoaderModule } from './heartloader.module'

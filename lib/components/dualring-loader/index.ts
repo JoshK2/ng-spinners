@@ -1,1 +1,1 @@
-export { DualRingLoaderModule } from './dualringloader.module';
+export { DualRingLoaderModule } from './dualringloader.module'

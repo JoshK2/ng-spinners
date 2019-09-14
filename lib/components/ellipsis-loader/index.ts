@@ -1,1 +1,1 @@
-export { EllipsisLoaderModule } from './ellipsisloader.module';
+export { EllipsisLoaderModule } from './ellipsisloader.module'

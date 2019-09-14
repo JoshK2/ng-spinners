@@ -1,10 +1,10 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { GridLoaderComponent } from './gridloader.component';
+import { NgModule } from '@angular/core'
+import { CommonModule } from '@angular/common'
+import { GridLoaderComponent } from './gridloader.component'
 
 @NgModule({
-  imports: [CommonModule],
-  declarations: [GridLoaderComponent],
-  exports: [GridLoaderComponent]
+    imports: [CommonModule],
+    declarations: [GridLoaderComponent],
+    exports: [GridLoaderComponent],
 })
-export class GridLoaderModule { }
+export class GridLoaderModule {}
