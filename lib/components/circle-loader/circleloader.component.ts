@@ -7,4 +7,5 @@ import { Component, Input } from '@angular/core';
 })
 export class CircleLoaderComponent {
   @Input() color: string = '#7f58af';
+  @Input() size: string = '64px';
 }
