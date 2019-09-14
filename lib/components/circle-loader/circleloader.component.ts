@@ -7,5 +7,9 @@ import { Component, Input } from '@angular/core'
 })
 export class CircleLoaderComponent {
     @Input() color: string = '#7f58af'
-    @Input() size: string = '64px'
+    @Input() size: number = 64
+
+    getStyle(): object {
+        return { 'background-color': this.color, width: `${this.size}px`, height: `${this.size}px` }
+    }
 }

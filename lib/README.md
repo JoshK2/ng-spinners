@@ -28,9 +28,9 @@ Each component accepts a `color` prop, and few accepts also `size` prop.
 The default `color` prop is `#7f58af`.  
 Component that accepts `size` prop have a default size in pixel.
 
-| Spinner                                | color: string | size: string  |
+| Spinner                                | color: string | size: number  |
 | -------------------------------------- | ------------  | ------------- |
-| `<circle-loader></circle-loader>`      | `#7f58af`     | `64px`        |
+| `<circle-loader></circle-loader>`      | `#7f58af`     | `64`          |
 | `<default-loader></default-loader>`    | `#7f58af`     | -             |
 | `<dualring-loader></dualring-loader>`  | `#7f58af`     | -             |
 | `<ellipsis-loader></ellipsis-loader>`  | `#7f58af`     | -             |
@@ -38,7 +38,7 @@ Component that accepts `size` prop have a default size in pixel.
 | `<grid-loader></grid-loader>`          | `#7f58af`     | -             |
 | `<heart-loader></heart-loader>`        | `#7f58af`     | -             |
 | `<hourglass-loader></hourglass-loader>`| `#7f58af`     | -             |
-| `<ring-loader></ring-loader>`          | `#7f58af`     | -             |
+| `<ring-loader></ring-loader>`          | `#7f58af`     | `80`          |
 | `<ripple-loader></ripple-loader>`      | `#7f58af`     | -             |
 | `<roller-loader></roller-loader>`      | `#7f58af`     | -             |
 | `<spinner-loader></spinner-loader>`    | `#7f58af`     | -             |
