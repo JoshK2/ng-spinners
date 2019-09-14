@@ -1,6 +1,6 @@
 {
   "name": "ng-spinners-project",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "author": "JoshK2",
   "license": "MIT",
   "repository": {
@@ -33,7 +33,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build:lib": "cp README.md lib/ && ng-packagr -p lib/package.json",
-    "deploy": "npm publish lib/dist"
+    "deploy:npm": "npm publish lib/dist",
+    "deploy:bit": "bit export joshk.ng-spinners"
   },
   "dependencies": {
     "@angular/common": "~8.1.2",

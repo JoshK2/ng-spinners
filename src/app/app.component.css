@@ -1,3 +1,10 @@
+h1 {
+    text-align: center;
+}
+.normal-spinners {
+    display: flex;
+    justify-content: center;
+}
 .main {
     text-align: center;
     width: 820px;

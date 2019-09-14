@@ -10,3 +10,4 @@ export { DualRingLoaderModule } from './dualring-loader';
 export { HeartLoaderModule } from './heart-loader';
 export { RollerLoaderModule } from './roller-loader';
 export { EllipsisLoaderModule } from './ellipsis-loader';
+export { OrbitalsLoaderModule } from './orbitals-loader';

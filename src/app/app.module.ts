@@ -15,7 +15,8 @@ import {
   DualRingLoaderModule,
   HeartLoaderModule,
   RollerLoaderModule,
-  EllipsisLoaderModule
+  EllipsisLoaderModule,
+  OrbitalsLoaderModule
 } from '../../lib/components';
 
 @NgModule({
@@ -37,7 +38,8 @@ import {
     DualRingLoaderModule,
     HeartLoaderModule,
     RollerLoaderModule,
-    EllipsisLoaderModule
+    EllipsisLoaderModule,
+    OrbitalsLoaderModule
   ],
   providers: [],
   bootstrap: [AppComponent]

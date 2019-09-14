@@ -6,9 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/joshkuttler)](https://twitter.com/JoshKuttler)
 
 <p align="center">
-  <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/e5832341d5d3e440221cf80650042792a99e39f7.gif"></a>
+  <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/1990710a88808ee8914167c74f57e604c5ed91fe.gif"></a>
 </p>
-Amazing collection of pure CSS angular spinners components of css spinners for ajax or loading animation based on loading.io.  
+
+Amazing collection of Angular spinners components with pure css.  
+The Angular spinners are based on loading.io and from all over the web.
 
 - 💅No extra CSS imports
 - ✂️Zero dependencies
