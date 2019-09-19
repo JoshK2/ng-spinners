@@ -5,6 +5,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/JoshK2/ng-spinners/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joshkuttler)](https://twitter.com/JoshKuttler)
+<span class="badge-buymeacoffee"><a href="https://www.buymeacoffee.com/s2cv3IikA" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 
 <p align="center">
   <a href="https://bit.dev/joshk/ng-spinners"><img src="https://i.imagesup.co/images2/1990710a88808ee8914167c74f57e604c5ed91fe.gif"></a>
@@ -107,6 +108,11 @@ You can see the components locally by cloning this repo and doing the following 
 
 - Pull requests and ⭐ stars are always welcome.
 - For bugs and feature requests, please create an issue.
+
+## 👏🏻 Support my open-source
+If you like to support my open-source contributions and feeling generous, feel free to:
+
+<a href="https://www.buymeacoffee.com/s2cv3IikA" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## 📄 License
 [MIT](https://github.com/JoshK2/ng-spinners/blob/master/LICENSE)
