@@ -1,6 +1,6 @@
 {
   "name": "ng-spinners-project",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "JoshK2",
   "license": "MIT",
   "repository": {
@@ -73,13 +73,14 @@
     "prettier": "^1.18.2",
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
+    "tsickle": "^0.38.1",
     "tslint": "^5.15.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "~3.4.3"
   },
   "bit": {
     "env": {
-      "compiler": "bit.envs/compilers/angular@0.2.0"
+      "compiler": "bit.envs/compilers/angular@9.0.14"
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
