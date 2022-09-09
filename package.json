@@ -40,7 +40,7 @@
   "dependencies": {
     "@angular/common": "~8.1.2",
     "@angular/compiler": "~8.1.2",
-    "@angular/core": "~8.1.2",
+    "@angular/core": "~11.0.5",
     "@angular/forms": "~8.1.2",
     "@angular/platform-browser": "~8.1.2",
     "@angular/platform-browser-dynamic": "~8.1.2",
@@ -51,7 +51,7 @@
   },
   "peerDependencies": {
     "@angular/common": "~8.1.2",
-    "@angular/core": "~8.1.2"
+    "@angular/core": "~11.0.5"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.801.2",
